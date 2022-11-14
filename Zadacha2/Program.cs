@@ -25,9 +25,9 @@ else
     }
 if (max > numberC)
 {
-    Console.WriteLine(max);
+    Console.WriteLine($"Максимальное число: {max}");
 }
 else 
 {
-    Console.WriteLine(numberC);
+    Console.WriteLine($"Максимальное число: {numberC}");
 }
